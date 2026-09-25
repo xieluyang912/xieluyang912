@@ -1,5 +1,13 @@
-## Hi there 👋
 
+### 🌱About
+
+<img src="https://i.kym-cdn.com/photos/images/original/002/474/361/171.gif" width="300px" align="right">
+- Student majoring in Clinical Medicine
+- Counter-Strike 2
+- Lang: English, Chinese
+- Contact:
+  - Email:xlyhsa@outlook.com
+  - QQ:234259867
 <!--
 **xieluyang912/xieluyang912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
