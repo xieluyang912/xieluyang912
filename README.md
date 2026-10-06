@@ -18,11 +18,6 @@
 ![Static Badge](https://img.shields.io/badge/steam-xxllyy-red?logo=steam)
 ![Static Badge](https://img.shields.io/badge/deepseek-harness-blue?logo=deepseek)
 ![Static Badge](https://img.shields.io/badge/claude-code-orange?logo=claude)
-![Static Badge](https://img.shields.io/badge/%E6%94%AF%E6%8C%81%E5%BA%93-astro-yello?logo=astro)
-![Static Badge](https://img.shields.io/badge/applemusic-xxllyy-red?logo=applemusic)
-![Static Badge](https://img.shields.io/badge/zotero-xxllyy-blue?logo=zotero)
-![Static Badge](https://img.shields.io/badge/counterstrike-Aaamazing-yellow?logo=counterstrike)
-![Static Badge](https://img.shields.io/badge/ea-xxllyy-orange?logo=ea)
 
 
 </div>
